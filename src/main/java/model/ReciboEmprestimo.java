@@ -4,6 +4,6 @@ import java.time.LocalDate;
 
 public record ReciboEmprestimo(
         Livro livro,
-                     String usuario,
-                     LocalDate dataEmprestimo) {
+        String usuario,
+        LocalDate dataEmprestimo) {
 }
