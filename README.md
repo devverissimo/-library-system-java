@@ -15,7 +15,7 @@ Projeto desenvolvido como parte do meu portfólio de estudos em Java, com foco e
 ---
 
 ## Estrutura do projeto
-
+```
 library-system-java/
   src/main/java/
     Main.java
@@ -30,7 +30,7 @@ library-system-java/
       LivroIndisponivelException.java
     service/
       BibliotecaService.java
-
+```
 ---
 
 ## Funcionalidades
