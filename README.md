@@ -2,7 +2,10 @@
 
 Sistema de biblioteca desenvolvido em Java puro, simulando empréstimo e devolução de livros com fila de espera, exceções de negócio e menu interativo no console.
 
+
 Projeto desenvolvido como parte do meu portfólio de estudos em Java, com foco em praticar conceitos fundamentais.
+
+
 ---
 
 ## Tecnologias
